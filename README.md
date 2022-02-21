@@ -1,4 +1,9 @@
 <h1 >Gmail Signature &nbsp;<img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"></h1>
+
+<h2>DO NOT USE Chrome browser. 크롬 브라우저가 아닌 다른 브라우저를 사용하세요.</h2>
+
+크롬 브라우저를 사용하면 링크에 밑줄이 생깁니다.
+
 Having a nice looking signature in your email will always make it more professional and put an impression that you care about things :+1:
 
 <br />
